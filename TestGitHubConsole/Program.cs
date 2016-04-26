@@ -10,6 +10,7 @@ namespace TestGitHubConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi  ");
         }
     }
 }
