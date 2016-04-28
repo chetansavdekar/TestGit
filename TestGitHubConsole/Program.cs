@@ -11,6 +11,10 @@ namespace TestGitHubConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hi  ");
+
+            //This is updated for second time
+
+            Console.WriteLine("Hello, This update is for second time");
         }
     }
 }
