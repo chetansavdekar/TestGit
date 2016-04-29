@@ -13,7 +13,6 @@ namespace TestGitHubConsole
             Console.WriteLine("Hi  ");
 
             //This is updated for second time
-
             Console.WriteLine("Hello, This update is for second time");
         }
     }
